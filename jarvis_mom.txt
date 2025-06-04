@@ -1,0 +1,41 @@
+>> Product Details:
+	>> Tabs Completed:
+   	     1. Company_details
+   	     2. Cap Table & Shareholding details
+   	     3. Facilities
+   	     4. Tranches
+
+	>> Backend Completed on Tab:
+	     1. CCPS/Warrants 
+	        >> Get, Post, Put is done from backend.
+	     
+	>> Pending APIs + Integrations:
+	     1. Documents
+	        >> Post Facility
+	        >> Post Tranches
+	        >> Get Facility
+	        >> Get Tranche
+	        
+	     2. Disbursals
+	        >> Post Tranche
+	        >> Get  Tranche
+	        >> Put  Tranche
+	        
+	     3. Repayment Schedule
+	        >> Post
+	        >> Get (Header)
+	        >> Get (Data)
+	        >> 2 Action Api's (workflow)
+	        
+	     4. Covenant Compliance
+	        >> Post
+	        >> Get
+	        
+	     5. Entities Status
+	        >> API in the form of Objects.
+	     
+	   
+	
+	   
+
+  
