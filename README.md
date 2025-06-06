@@ -85,7 +85,7 @@ python manage.py runserver
     Returns all bookings made by the client.
 
     postman_curl:
-        curl --location 'http://127.0.0.1:8000/bookings/?email=jharohit03071%40gmail.com'
+        curl --location 'http://127.0.0.1:8000/bookings/?email=jharohit03071@gmail.com'
 
 
 ## Running Tests
