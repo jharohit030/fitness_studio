@@ -16,8 +16,6 @@ class Booking(models.Model):
     client_name = models.CharField(max_length=100)
     client_email = models.EmailField()
     booked_at = models.DateTimeField(auto_now_add=True)
-    created_at = models.DateTimeField(auto_now_add=True)
-    updated_at = models.DateTimeField(auto_now=True)
 
     def __str__(self):
         return f"{self.client_name} booking for {self.fitness_class.name}"
